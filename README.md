@@ -88,8 +88,8 @@ with Psi_X and Psi_M arbitrary positive semi-definite matrices.
 
 ### References
 
-[1] Etievant Lola and Viallon Vivian. On some limitations of probabilistic models for dimension-reduction: illustration in the case of probabilistic formulations of Partial Least Squares [In press]. 
+[1] Etievant Lola and Viallon Vivian (2022). On some limitations of probabilistic models for dimension-reduction: illustration in the case of probabilistic formulations of Partial Least Squares. Statistica Neerlandica, 76(3), 331–346.
 
 
-[2] El Bouhaddani et al. Probabilistic partial least squares model: identifiability, estimation and application (2018). Journal of Multivariate Analysis, 167.
+[2] El Bouhaddani et al (2018). Probabilistic partial least squares model: identifiability, estimation and application. Journal of Multivariate Analysis, 167, 331-346.
 
