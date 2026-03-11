@@ -11,16 +11,16 @@ MASS, pracma, matrixcalc, Matrix, permute, methods, robustbase, xtable, parallel
 
 ### Script
 
-Script `Simul_PPLS_limitations.R` allows to replicate the simulations studies proposed by Etievant and Viallon [1]. It relies on functions provided in `helper_function.R`.
+Script `Simul_PPLS_limitations.R` replicates the simulations studies proposed by Etievant and Viallon [1]. It relies on functions provided in `helper_function.R`.
 
 
 ### Arguments to specify
 
-* **dir_data_sim1** - directory where to save the true parameters values, generated data and estimates obtained via the EM algorithm devised under the PPLS model proposed by el Bouhaddani et al. [2], for the first simulation study. The directory will be used also to save the comparisons of the weight matrices A and B, as well as the figures summarizing the comparisons.
+* **dir_data_sim1** - directory to save the true parameters values, generated data and estimates obtained via the EM algorithm devised under the PPLS model proposed by el Bouhaddani et al. [2], for the first simulation study. The directory will be used also to save the comparisons of the weight matrices A and B, as well as the figures summarizing the comparisons.
 
-* **dir_data_sim2** - directory where to save the true parameters values, generated data and estimates obtained via the EM algorithm devised under the PPLS model proposed by el Bouhaddani et al. [2], for the second simulation study. The directory can coincide with **dir_data_sim1**.
+* **dir_data_sim2** - directory to save the true parameters values, generated data and estimates obtained via the EM algorithm devised under the PPLS model proposed by el Bouhaddani et al. [2], for the second simulation study. The directory can coincide with **dir_data_sim1**.
 
-* **Ncores** - number of cores to use to run the data generation and parameters estimation simultaneously.
+* **Ncores** - number of cores used to run the data generation and parameters estimation simultaneously.
 
 
 ### Instructions to run the script `Simul_PPLS_limitations.R`
